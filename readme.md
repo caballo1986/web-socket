@@ -188,5 +188,6 @@ Si deseas contribuir al proyecto:
 5. Abre un Pull Request
 
 ## 📄 Licencia
-
+referencia
+https://www.youtube.com/watch?v=ibscgYfOPXI
 Este proyecto está bajo la Licencia MIT - ve el archivo [LICENSE.md](LICENSE.md) para más detalles.
